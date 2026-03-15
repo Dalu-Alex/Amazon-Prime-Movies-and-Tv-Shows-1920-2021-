@@ -1,25 +1,32 @@
-Importing the Dataset
-Data Understanding The dataset was examined to understand the structure of the data.
-Important fields such as: Show ID Country Other categorical or numerical attributes were identified for analysis. This helped in deciding which fields could be used for visualization.
+Power BI Dashboard Development – Process Explanation
 
-Data Preparation The dataset was reviewed to ensure the data types were correct. Columns were checked for: Correct text format Numeric format Proper categorization Any unnecessary columns were ignored for the visualization process.
+1. Importing the Dataset:
+The dataset was imported into Power BI Desktop so that it could be analyzed and used for creating visualizations.
 
-Data Modeling After preparing the dataset, the fields were organized inside the Data Model. Power BI automatically structured the dataset so that it could be used for creating visuals and insights.
+2. Data Understanding:
+The structure of the dataset was examined to understand the available fields. Important columns such as Show ID, Country, and other attributes were identified. This helped determine which fields could be used for analysis and visualization.
 
-Creating the Report Page new report page was created in the Report View. Visual components were arranged on the canvas to design the dashboard layout. Proper spacing and positioning were used to make the report visually appealing.
+3. Data Preparation:
+The dataset was reviewed to ensure that all columns had the correct data types.
+Text, numeric, and categorical fields were checked and unnecessary columns were ignored to keep the data organized.
 
-Creating Visualizations Different visualizations were added to represent insights from the dataset.
+4. Data Modeling:
+After preparing the dataset, the fields were organized within the Power BI Data Model. This allowed the dataset to be used efficiently for creating visuals and generating insights.
 
-Map Visualization A Filled Map visual was created.
+5. Creating the Report Page:
+A new report page was created in the Report View. Visual elements were arranged on the canvas to design a clean and organized dashboard layout.
 
-Th Country field was used as the location. This helped show the geographical distribution of the data.
+6. Creating Visualizations:
+Different visualizations were added to represent insights from the dataset.
 
-Data Representation Additional visuals were added to represent key data points and metrics. Fields such as Show ID and other attributes were used in tooltips or values.
+7. Map Visualization:
+A Filled Map visual was created using the Country field as the location. This helped display the geographical distribution of the data.
 
-Customizing the Report Design The report layout was improved by: Adjusting visual sizes Aligning elements properly Applying a theme A custom theme file was applied to give the dashboard a professional look.
+8. Customizing the Report Design:
+The dashboard layout was improved by adjusting visual sizes, aligning elements properly, and applying a custom theme to give the report a professional appearance.
 
-Adding Visual Elements A logo image was inserted into the report page to improve the design and branding of the dashboard.
+9. Enhancing User Experience:
+Formatting options such as titles, backgrounds, labels, and tooltips were applied to make the visuals clearer and easier to understand.
 
-Enhancing User Experience Tooltips were configured so that additional information appears when users hover over visuals. Visual formatting options such as: Titles Background Labels were customized to make the dashboard clearer.
-
-Final Dashboard Layout The visuals were arranged properly to ensure: Clear storytelling Easy understanding of insights Professional presentation of the report.
+10. Final Dashboard Layout:
+All visuals were arranged properly to ensure the dashboard provides clear insights, easy understanding, and a professional presentation.
