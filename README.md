@@ -1,5 +1,5 @@
-POWER BI DASHBOARD DEVELOPMENT – PROCESS EXPLANATION OVERVIEW- PAGE 1
-OVERVIEW - PAGE 1
+POWER BI DASHBOARD DEVELOPMENT – PROCESS EXPLANATION
+OVERVIEW- PAGE 1
 
 1.IMPORTING THE DATASET:
 The dataset was imported into Power BI Desktop so that it could be analyzed and used for creating visualizations.
@@ -29,7 +29,7 @@ The dashboard layout was improved by adjusting visual sizes, aligning elements p
 9.ENCHANCING USER EXPERIENCE:
 Formatting options such as titles, backgrounds, labels, and tooltips were applied to make the visuals clearer and easier to understand.
 
- CONTENT ANALYSIS-(PAGE 2)
+ CONTENT ANALYSIS - (PAGE 2)
 
 1.UNDERSTANDING THE DATA:
   The dataset was reviewed to understand important fields such as Show ID, Country, Type, Rating, Genre (Listed In)
