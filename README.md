@@ -33,7 +33,7 @@ Formatting options such as titles, backgrounds, labels, and tooltips were applie
 
 1.UNDERSTANDING THE DATA:
   The dataset was reviewed to understand important fields such as Show ID, Country, Type, Rating, Genre (Listed In)
-   Director, and Release Year.
+  Director, and Release Year.
 
 2.DATA PREPARATION:
 The data types of each column were checked and adjusted where necessary to ensure proper analysis and visualization.
